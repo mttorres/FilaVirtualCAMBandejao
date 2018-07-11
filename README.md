@@ -6,6 +6,7 @@ Apresentação: https://drive.google.com/file/d/0B1FAqfSErBZXUHFwWVZtSlBjbUxxT0V
 
 Creditos: 
 https://github.com/sarxos/webcam-capture  (API de captura de imagem da camera)
+
 Bruno Bolandini e Mateus Torres
 
 
